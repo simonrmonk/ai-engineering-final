@@ -1,0 +1,11 @@
+*.csv
+!**/cleaned_players.csv
+**/wandb/*
+**/__pycache__/*
+**/.chainlit/*
+.vscode/*
+**/.env
+**/*.pdf
+**/chroma_db_nouns/*
+**/chroma_*/*
+**/fpl.db
